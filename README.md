@@ -1,4 +1,4 @@
-The TGSGAN
+## The TGSGAN
 
 Molecular generation with generative adversarial network with Gumbel-Softmax method.
 
