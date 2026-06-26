@@ -1,0 +1,8 @@
+tensorflow==2.20.0
+tensorflow-datasets==4.9.9
+pandas==2.3.3
+numpy==2.2.6
+rdkit==2025.9.1
+scikit-learn==1.7.2
+selfies==2.2.0
+joblib==1.5.2
