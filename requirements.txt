@@ -1,3 +1,5 @@
+protobuf>=6.31.1,<7
+jinja2==3.1.6
 tensorflow==2.20.0
 tensorflow-datasets==4.9.9
 pandas==2.3.3
@@ -6,3 +8,5 @@ rdkit==2025.9.1
 scikit-learn==1.7.2
 selfies==2.2.0
 joblib==1.5.2
+ipykernel==7.1.0
+py3Dmol==2.5.4
